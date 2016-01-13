@@ -12,4 +12,4 @@ http://www.howtogeek.com/180167/htg-explains-what-is-github-and-what-do-geeks-us
 Arduino examples are in the "examples" folder, any readings we hand out are in "readings"
 (fairly self-explanatory, i suppose)
 
-You can click into the folders and copy/paste the code directly, or download the zip file for any of the folders.
+You can click into the folders and copy/paste the code directly, or download the whole thing as a zip file.
